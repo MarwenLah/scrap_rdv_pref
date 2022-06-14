@@ -1,0 +1,88 @@
+1655206999382	geckodriver	INFO	Listening on 127.0.0.1:49842
+1655207002471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofile1hfAmr"
+1655207003601	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49843
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofile1hfAmr\\search.json.mozlz4", (void 0)))
+1655207004862	Marionette	INFO	Listening on port 49868
+DevTools listening on ws://localhost:49843/devtools/browser/0d024e2f-c580-4201-a4e3-a689f15141a4
+Read port: 49868
+1655207004912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207484418	Marionette	INFO	Stopped listening on port 49868
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileSSX7Aa"
+1655207102705	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49960
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileSSX7Aa\\search.json.mozlz4", (void 0)))
+1655207103635	Marionette	INFO	Listening on port 49981
+DevTools listening on ws://localhost:49960/devtools/browser/cd41d82c-ce70-4ccd-bf3a-e0e92af26c34
+Read port: 49981
+1655207103686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207484418	Marionette	INFO	Stopped listening on port 49981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileHNqCoS"
+1655207205214	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50088
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileHNqCoS\\search.json.mozlz4", (void 0)))
+1655207206216	Marionette	INFO	Listening on port 50108
+DevTools listening on ws://localhost:50088/devtools/browser/b03fefc5-19e9-4026-a97d-b993fb41080e
+Read port: 50108
+1655207206294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207212250	Marionette	INFO	Stopped listening on port 50108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655207224162	geckodriver	INFO	Listening on 127.0.0.1:50147
+1655207227254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileK0C5Ke"
+1655207227510	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50148
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileK0C5Ke\\search.json.mozlz4", (void 0)))
+1655207228446	Marionette	INFO	Listening on port 50169
+DevTools listening on ws://localhost:50148/devtools/browser/fb7a3c0b-60ee-4007-a0fe-2273e25f560d
+Read port: 50169
+1655207228474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207484418	Marionette	INFO	Stopped listening on port 50169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileFw35QA"
+1655207340279	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50250
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileFw35QA\\search.json.mozlz4", (void 0)))
+1655207341239	Marionette	INFO	Listening on port 50270
+Read port: 50270
+1655207341257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50250/devtools/browser/824cc409-1e41-461b-8bf3-433ae9a56c53
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207484418	Marionette	INFO	Stopped listening on port 50270
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileCj99py"
+1655207361150	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50324
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileCj99py\\search.json.mozlz4", (void 0)))
+1655207362171	Marionette	INFO	Listening on port 50345
+DevTools listening on ws://localhost:50324/devtools/browser/5287e9e9-2e89-471c-803b-d0415739375b
+Read port: 50345
+1655207362219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655207484418	Marionette	INFO	Stopped listening on port 50345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655207556915	geckodriver	INFO	Listening on 127.0.0.1:50512
+1655207560001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileQjXQ9m"
+1655207560302	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50513
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Marwen\\AppData\\Local\\Temp\\rust_mozprofileQjXQ9m\\search.json.mozlz4", (void 0)))
+1655207561263	Marionette	INFO	Listening on port 50536
+DevTools listening on ws://localhost:50513/devtools/browser/e30b2f8c-c1dc-474c-9916-8049b77cd9d5
+Read port: 50536
+1655207561354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pprdv.interieur.gouv.fr"
+JavaScript warning: https://pprdv.interieur.gouv.fr/var/ide_site/cache/public/javascript/12ba3bd260e25613979a963f1c4f308a_1592234339.js, line 1762: unreachable code after return statement
+1655214709907	Marionette	INFO	Stopped listening on port 50536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
