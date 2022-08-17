@@ -10,7 +10,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 def do_the_job(choices_list):
     random.shuffle(choices_list)
-    path = r"C:\Users\Marwen\Desktop\python\chromedriver.exe"
     chrome_options = Options()
     chrome_options.add_experimental_option("detach", True)
     for choice in choices_list:
