@@ -3,14 +3,18 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-
+import random
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
 def do_the_job(choices_list):
+    random.shuffle(choices_list)
     path = r"C:\Users\Marwen\Desktop\python\chromedriver.exe"
     chrome_options = Options()
     chrome_options.add_experimental_option("detach", True)
     for choice in choices_list:
-        driver = webdriver.Chrome(path, chrome_options=chrome_options)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         driver.maximize_window()
         driver.get("https://pprdv.interieur.gouv.fr/booking/create/989")
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -25,7 +29,7 @@ def do_the_job(choices_list):
                 print("forbidden")
                 driver.close()
                 break
-            continue  
+            continue
         except NoSuchElementException:
             pass
 
@@ -52,7 +56,7 @@ def do_the_job(choices_list):
                     print("forbidden")
                     driver.close()
                     break
-                continue  
+                continue
             except NoSuchElementException:
                 pass
 
@@ -73,7 +77,7 @@ def do_the_job(choices_list):
                     print("forbidden")
                     driver.close()
                     break
-                continue  
+                continue
             except NoSuchElementException:
                 pass
 
